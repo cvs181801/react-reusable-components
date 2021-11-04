@@ -40,15 +40,15 @@ code {
   display: flex;
   max-width: 60%;
   margin: 0 auto;
+  align-items: center;
+  justify-content: center;
   
 }
 
 .shape__child--flex > p {
-  max-width: 10em;
-  max-height: 15em;
+  max-width: 9em;
+  max-height: 9em;
   font-size: .7rem;
-  align-items: center;
-  justify-content: center;
   color:lightcyan;
   background-color: rgb(82, 1, 82);
   text-align: center;

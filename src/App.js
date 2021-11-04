@@ -18,25 +18,35 @@ function App() {
       <Shape>
         <h2>Scalability is key to your organization.</h2>
           <div className="shape__child">
-            <p>Don't let poor design eat up your time</p>
+            <p>
+              <p>Don't let poor design eat up your time</p>
+            </p>
           </div>
       </Shape>
 
       <Shape>
           <div className="shape__child--flex">
-            <p>React provides tools for increased cybersecurity</p>
-            <p>Don't wait until it's too late</p>
+            <p>
+              <p>React provides tools for increased cybersecurity</p>
+            </p>
+            <p>
+              <p>Don't wait until it's too late</p>
+            </p>
           </div>
       </Shape>
 
       <Shape>
         <h1>Your team is busy.</h1>
           <div className="shape__child--flex">
-            <p>Increase productivity with react reusable components</p>
+            <p>
+              <p>Increase productivity with react reusable components</p>
+            </p>
             <p>
               <p>Increase morale</p>
             </p>
-            <p>Getting shit done - now that's a great feeling!</p>
+            <p>
+              <p>Getting shit done - now that's a great feeling!</p>
+            </p>
           </div>
       </Shape>
 
