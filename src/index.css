@@ -14,4 +14,21 @@ code {
 
 .shape {
   border: 2px solid indigo;
+  background-color: rgba(76, 0, 130, 0.411);
+  margin: .7em auto .7em auto;
+  padding: .4em;
+  max-width: 80%;
+  
+}
+
+.shape__child {
+  max-width: 15em;
+  max-height: 15em;
+  font-size: .7rem;
+  color:lightcyan;
+  background-color: darkslategray;
+  text-align: center;
+  margin: 0 auto;
+  padding: .3em;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
