@@ -33,7 +33,7 @@ function App() {
         <h1>Your team is busy.</h1>
           <div className="shape__child--flex">
             <p>Increase productivity with react reusable components</p>
-            <p>increase scalability</p>
+            <p>Increase morale</p>
             <p>Getting shit done - now that's a great feeling!</p>
           </div>
       </Shape>

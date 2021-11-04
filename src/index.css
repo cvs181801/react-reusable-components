@@ -17,7 +17,7 @@ code {
   background-color: rgba(76, 0, 130, 0.411);
   margin: .7em auto .7em auto;
   padding: .4em;
-  max-width: 80%;
+  max-width: 50%;
   border-radius: 10px;
   
 }
@@ -38,17 +38,22 @@ code {
 
 .shape__child--flex {
   display: flex;
+  max-width: 60%;
+  margin: 0 auto;
   
 }
 
 .shape__child--flex > p {
-  max-width: 15em;
+  max-width: 10em;
   max-height: 15em;
   font-size: .7rem;
+  align-items: center;
+  justify-content: center;
   color:lightcyan;
   background-color: rgb(82, 1, 82);
   text-align: center;
   margin: 0 auto;
+  justify-content: space-between;
   padding: .3em;
   font-family:Verdana, Geneva, Tahoma, sans-serif;
   border-radius: 10px;
